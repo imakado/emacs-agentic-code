@@ -1,4 +1,4 @@
-;;; agentic-code.el --- AI-powered code generation and editing -*- lexical-binding: t -*-
+;;; agentic-code.el --- Vibe Coding with Claude Code in Emacs -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2025 imakado
 
@@ -25,7 +25,7 @@
 
 ;;; Commentary:
 
-;; Agentic Code provides AI-powered code generation and editing capabilities
+;; Agentic Code provides Vibe Coding with Claude Code in Emacs capabilities
 ;; directly within Emacs.  It integrates with the Claude Code CLI through
 ;; vterm.el to enable seamless interaction with AI agents for various
 ;; programming tasks.
@@ -87,7 +87,7 @@
 ;;;; Customization
 
 (defgroup agentic-code nil
-  "AI-powered code generation and editing for Emacs."
+  "Vibe Coding with Claude Code in Emacs."
   :group 'tools
   :prefix "agentic-code-")
 
