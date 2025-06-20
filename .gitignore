@@ -15,3 +15,23 @@ dist/
 
 # Undo-tree save-files
 *.~undo-tree
+/worktrees/
+/output/
+/sample-config/*.el
+.claude/settings.local.json
+
+# Test coverage
+coverage/
+*.coverage
+
+# Temporary files
+*.log
+.DS_Store
+
+# Lock files
+*.lock
+/CLAUDE.local.md
+/chat/
+/docs/
+/sample-config/
+agentic-code-notify.el
